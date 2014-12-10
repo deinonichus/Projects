@@ -1,0 +1,9 @@
+c:\users\dave\documents\visual studio 2013\Projects\Warenkorb\bin\Debug\Warenkorb.exe.config
+C:\Users\dave\documents\visual studio 2013\Projects\Warenkorb\bin\Debug\Warenkorb.exe
+C:\Users\dave\documents\visual studio 2013\Projects\Warenkorb\bin\Debug\Warenkorb.pdb
+C:\Users\dave\documents\visual studio 2013\Projects\Warenkorb\obj\Debug\Warenkorb.csprojResolveAssemblyReference.cache
+C:\Users\dave\documents\visual studio 2013\Projects\Warenkorb\obj\Debug\Warenkorb.Warenkorb.resources
+C:\Users\dave\documents\visual studio 2013\Projects\Warenkorb\obj\Debug\Warenkorb.Properties.Resources.resources
+C:\Users\dave\documents\visual studio 2013\Projects\Warenkorb\obj\Debug\Warenkorb.csproj.GenerateResource.Cache
+C:\Users\dave\documents\visual studio 2013\Projects\Warenkorb\obj\Debug\Warenkorb.exe
+C:\Users\dave\documents\visual studio 2013\Projects\Warenkorb\obj\Debug\Warenkorb.pdb

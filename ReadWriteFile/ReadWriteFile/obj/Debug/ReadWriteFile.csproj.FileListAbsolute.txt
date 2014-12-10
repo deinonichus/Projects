@@ -1,0 +1,6 @@
+C:\Users\dave\Documents\Visual Studio 2013\Projects\Projects\ReadWriteFile\ReadWriteFile\bin\Debug\ReadWriteFile.exe.config
+C:\Users\dave\Documents\Visual Studio 2013\Projects\Projects\ReadWriteFile\ReadWriteFile\bin\Debug\ReadWriteFile.exe
+C:\Users\dave\Documents\Visual Studio 2013\Projects\Projects\ReadWriteFile\ReadWriteFile\bin\Debug\ReadWriteFile.pdb
+C:\Users\dave\Documents\Visual Studio 2013\Projects\Projects\ReadWriteFile\ReadWriteFile\obj\Debug\ReadWriteFile.csprojResolveAssemblyReference.cache
+C:\Users\dave\Documents\Visual Studio 2013\Projects\Projects\ReadWriteFile\ReadWriteFile\obj\Debug\ReadWriteFile.exe
+C:\Users\dave\Documents\Visual Studio 2013\Projects\Projects\ReadWriteFile\ReadWriteFile\obj\Debug\ReadWriteFile.pdb

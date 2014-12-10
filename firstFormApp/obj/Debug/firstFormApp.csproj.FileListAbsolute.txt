@@ -1,0 +1,9 @@
+c:\users\dave\documents\visual studio 2013\Projects\firstFormApp\bin\Debug\firstFormApp.exe.config
+c:\users\dave\documents\visual studio 2013\Projects\firstFormApp\bin\Debug\firstFormApp.exe
+c:\users\dave\documents\visual studio 2013\Projects\firstFormApp\bin\Debug\firstFormApp.pdb
+c:\users\dave\documents\visual studio 2013\Projects\firstFormApp\obj\Debug\firstFormApp.csprojResolveAssemblyReference.cache
+c:\users\dave\documents\visual studio 2013\Projects\firstFormApp\obj\Debug\firstFormApp.Form1.resources
+c:\users\dave\documents\visual studio 2013\Projects\firstFormApp\obj\Debug\firstFormApp.Properties.Resources.resources
+c:\users\dave\documents\visual studio 2013\Projects\firstFormApp\obj\Debug\firstFormApp.csproj.GenerateResource.Cache
+c:\users\dave\documents\visual studio 2013\Projects\firstFormApp\obj\Debug\firstFormApp.exe
+c:\users\dave\documents\visual studio 2013\Projects\firstFormApp\obj\Debug\firstFormApp.pdb

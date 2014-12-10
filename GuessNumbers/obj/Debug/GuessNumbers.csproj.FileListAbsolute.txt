@@ -1,0 +1,6 @@
+c:\users\dave\documents\visual studio 2013\Projects\GuessNumbers\bin\Debug\GuessNumbers.exe.config
+c:\users\dave\documents\visual studio 2013\Projects\GuessNumbers\bin\Debug\GuessNumbers.exe
+c:\users\dave\documents\visual studio 2013\Projects\GuessNumbers\bin\Debug\GuessNumbers.pdb
+c:\users\dave\documents\visual studio 2013\Projects\GuessNumbers\obj\Debug\GuessNumbers.csprojResolveAssemblyReference.cache
+c:\users\dave\documents\visual studio 2013\Projects\GuessNumbers\obj\Debug\GuessNumbers.exe
+c:\users\dave\documents\visual studio 2013\Projects\GuessNumbers\obj\Debug\GuessNumbers.pdb

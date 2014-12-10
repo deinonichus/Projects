@@ -1,0 +1,6 @@
+c:\users\dave\documents\visual studio 2013\Projects\recursion\bin\Debug\recursion.exe.config
+c:\users\dave\documents\visual studio 2013\Projects\recursion\obj\Debug\recursion.csprojResolveAssemblyReference.cache
+c:\users\dave\documents\visual studio 2013\Projects\recursion\bin\Debug\recursion.exe
+c:\users\dave\documents\visual studio 2013\Projects\recursion\bin\Debug\recursion.pdb
+c:\users\dave\documents\visual studio 2013\Projects\recursion\obj\Debug\recursion.exe
+c:\users\dave\documents\visual studio 2013\Projects\recursion\obj\Debug\recursion.pdb
