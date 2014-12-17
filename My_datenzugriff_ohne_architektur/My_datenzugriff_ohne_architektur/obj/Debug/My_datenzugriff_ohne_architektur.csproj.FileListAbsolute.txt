@@ -1,0 +1,36 @@
+Y:\B-TIN-11-T-a\OO-Technologie\Code\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\obj\Debug\My_datenzugriff_ohne_architektur.exe
+Y:\B-TIN-11-T-a\OO-Technologie\Code\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\obj\Debug\My_datenzugriff_ohne_architektur.pdb
+Y:\B-TIN-11-T-a\OO-Technologie\Code\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\bin\Debug\My_datenzugriff_ohne_architektur.exe
+Y:\B-TIN-11-T-a\OO-Technologie\Code\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\bin\Debug\My_datenzugriff_ohne_architektur.pdb
+Y:\B-TIN-11-T-a\OO-Technologie\Code\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\obj\Debug\ResolveAssemblyReference.cache
+Y:\B-TIN-11-T-a\OO-Technologie\Code\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\obj\Debug\My_datenzugriff_ohne_architektur.Form1.resources
+Y:\B-TIN-11-T-a\OO-Technologie\Code\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\obj\Debug\My_datenzugriff_ohne_architektur.Properties.Resources.resources
+Y:\B-TIN-11-T-a\OO-Technologie\Code\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\obj\Debug\ResGen.read.1.tlog
+Y:\B-TIN-11-T-a\OO-Technologie\Code\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\obj\Debug\ResGen.write.1.tlog
+\\B-EDU-1\Klassen\B-TIN-11-T-a\OO-Technologie\Code\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\obj\Debug\My_datenzugriff_ohne_architektur.exe
+\\B-EDU-1\Klassen\B-TIN-11-T-a\OO-Technologie\Code\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\obj\Debug\My_datenzugriff_ohne_architektur.pdb
+\\b-edu-1\Klassen\B-TIN-11-T-a\OO-Technologie\Code\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\bin\Debug\My_datenzugriff_ohne_architektur.exe
+\\b-edu-1\Klassen\B-TIN-11-T-a\OO-Technologie\Code\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\bin\Debug\My_datenzugriff_ohne_architektur.pdb
+\\b-edu-1\Klassen\B-TIN-11-T-a\OO-Technologie\Code\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\obj\Debug\ResolveAssemblyReference.cache
+\\b-edu-1\Klassen\B-TIN-11-T-a\OO-Technologie\Code\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\obj\Debug\My_datenzugriff_ohne_architektur.Form1.resources
+\\b-edu-1\Klassen\B-TIN-11-T-a\OO-Technologie\Code\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\obj\Debug\My_datenzugriff_ohne_architektur.Properties.Resources.resources
+\\b-edu-1\Klassen\B-TIN-11-T-a\OO-Technologie\Code\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\obj\Debug\ResGen.read.1.tlog
+\\b-edu-1\Klassen\B-TIN-11-T-a\OO-Technologie\Code\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\obj\Debug\ResGen.write.1.tlog
+C:\Users\chh\Desktop\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\obj\Debug\My_datenzugriff_ohne_architektur.exe
+C:\Users\chh\Desktop\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\obj\Debug\My_datenzugriff_ohne_architektur.pdb
+C:\Users\chh\Desktop\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\bin\Debug\My_datenzugriff_ohne_architektur.exe
+C:\Users\chh\Desktop\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\bin\Debug\My_datenzugriff_ohne_architektur.pdb
+C:\Users\chh\Desktop\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\obj\Debug\My_datenzugriff_ohne_architektur.Form1.resources
+C:\Users\chh\Desktop\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\obj\Debug\My_datenzugriff_ohne_architektur.Properties.Resources.resources
+C:\Users\chh\Desktop\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\obj\Debug\My_datenzugriff_ohne_architektur.csprojResolveAssemblyReference.cache
+C:\Users\chh\Desktop\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\obj\Debug\My_datenzugriff_ohne_architektur.csproj.GenerateResource.Cache
+Y:\B-TIN-13-T-a\Objektorientiertes Programmieren\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\obj\Debug\My_datenzugriff_ohne_architektur.exe
+Y:\B-TIN-13-T-a\Objektorientiertes Programmieren\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\obj\Debug\My_datenzugriff_ohne_architektur.pdb
+C:\Users\lutzd\Documents\Visual Studio 2013\Projects\projects2\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\obj\Debug\My_datenzugriff_ohne_architektur.exe
+C:\Users\lutzd\Documents\Visual Studio 2013\Projects\projects2\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\obj\Debug\My_datenzugriff_ohne_architektur.pdb
+C:\Users\lutzd\Documents\Visual Studio 2013\Projects\projects2\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\bin\Debug\My_datenzugriff_ohne_architektur.exe
+C:\Users\lutzd\Documents\Visual Studio 2013\Projects\projects2\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\bin\Debug\My_datenzugriff_ohne_architektur.pdb
+C:\Users\lutzd\Documents\Visual Studio 2013\Projects\projects2\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\obj\Debug\My_datenzugriff_ohne_architektur.csprojResolveAssemblyReference.cache
+C:\Users\lutzd\Documents\Visual Studio 2013\Projects\projects2\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\obj\Debug\My_datenzugriff_ohne_architektur.Form1.resources
+C:\Users\lutzd\Documents\Visual Studio 2013\Projects\projects2\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\obj\Debug\My_datenzugriff_ohne_architektur.Properties.Resources.resources
+C:\Users\lutzd\Documents\Visual Studio 2013\Projects\projects2\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\obj\Debug\My_datenzugriff_ohne_architektur.csproj.GenerateResource.Cache

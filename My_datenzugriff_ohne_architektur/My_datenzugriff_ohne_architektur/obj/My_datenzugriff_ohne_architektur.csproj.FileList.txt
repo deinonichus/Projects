@@ -1,0 +1,2 @@
+obj\Debug\My_datenzugriff_ohne_architektur.exe
+obj\Debug\My_datenzugriff_ohne_architektur.pdb

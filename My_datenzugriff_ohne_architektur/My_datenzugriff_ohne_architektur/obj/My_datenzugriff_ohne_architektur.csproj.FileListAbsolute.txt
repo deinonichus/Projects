@@ -1,0 +1,10 @@
+C:\Dokumente und Einstellungen\chh\Eigene Dateien\Visual Studio 2005\Projects\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\bin\Debug\My_datenzugriff_ohne_architektur.exe
+C:\Dokumente und Einstellungen\chh\Eigene Dateien\Visual Studio 2005\Projects\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\bin\Debug\My_datenzugriff_ohne_architektur.pdb
+C:\Dokumente und Einstellungen\chh\Eigene Dateien\Visual Studio 2005\Projects\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\obj\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\chh\Eigene Dateien\Visual Studio 2005\Projects\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\obj\Debug\My_datenzugriff_ohne_architektur.Form1.resources
+C:\Dokumente und Einstellungen\chh\Eigene Dateien\Visual Studio 2005\Projects\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\obj\Debug\My_datenzugriff_ohne_architektur.Properties.Resources.resources
+C:\Dokumente und Einstellungen\chh\Eigene Dateien\Visual Studio 2005\Projects\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\obj\Debug\My_datenzugriff_ohne_architektur.csproj.GenerateResource.Cache
+C:\Dokumente und Einstellungen\chh\Eigene Dateien\Visual Studio 2005\Projects\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\obj\Debug\My_datenzugriff_ohne_architektur.exe
+C:\Dokumente und Einstellungen\chh\Eigene Dateien\Visual Studio 2005\Projects\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\obj\Debug\My_datenzugriff_ohne_architektur.pdb
+G:\B-TIN-08-T-a\Programmieren\Code\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\obj\Debug\My_datenzugriff_ohne_architektur.exe
+G:\B-TIN-08-T-a\Programmieren\Code\My_datenzugriff_ohne_architektur\My_datenzugriff_ohne_architektur\obj\Debug\My_datenzugriff_ohne_architektur.pdb
