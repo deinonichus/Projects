@@ -1,1 +1,2 @@
 c:\users\lutzd\documents\visual studio 2013\Projects\projects2\dbConnections\dbConnections\bin\Debug\dbConnections.exe.config
+C:\Users\dave\Documents\Visual Studio 2013\Projects\dbConnections\dbConnections\bin\Debug\dbConnections.exe.config

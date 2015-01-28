@@ -1,1 +1,9 @@
 c:\users\dave\documents\visual studio 2013\Projects\DBConnection\bin\Debug\DBConnection.exe.config
+C:\Users\dave\Documents\Visual Studio 2013\Projects\DBConnection\bin\Debug\DBConnection.exe
+C:\Users\dave\Documents\Visual Studio 2013\Projects\DBConnection\bin\Debug\DBConnection.pdb
+C:\Users\dave\Documents\Visual Studio 2013\Projects\DBConnection\obj\Debug\DBConnection.csprojResolveAssemblyReference.cache
+C:\Users\dave\Documents\Visual Studio 2013\Projects\DBConnection\obj\Debug\DBConnection.Form1.resources
+C:\Users\dave\Documents\Visual Studio 2013\Projects\DBConnection\obj\Debug\DBConnection.Properties.Resources.resources
+C:\Users\dave\Documents\Visual Studio 2013\Projects\DBConnection\obj\Debug\DBConnection.csproj.GenerateResource.Cache
+C:\Users\dave\Documents\Visual Studio 2013\Projects\DBConnection\obj\Debug\DBConnection.exe
+C:\Users\dave\Documents\Visual Studio 2013\Projects\DBConnection\obj\Debug\DBConnection.pdb

@@ -33,3 +33,11 @@ C:\Users\lutzd\Documents\Visual Studio 2013\Projects\projects2\LinqTest1\LinqTes
 C:\Users\lutzd\Documents\Visual Studio 2013\Projects\projects2\LinqTest1\LinqTest1\obj\x86\Debug\LinqTest1.csproj.GenerateResource.Cache
 C:\Users\lutzd\Documents\Visual Studio 2013\Projects\projects2\LinqTest1\LinqTest1\bin\Debug\LinqTest1.exe
 C:\Users\lutzd\Documents\Visual Studio 2013\Projects\projects2\LinqTest1\LinqTest1\bin\Debug\LinqTest1.pdb
+C:\Users\dave\Documents\Visual Studio 2013\Projects\LinqTest1\LinqTest1\obj\x86\Debug\LinqTest1.exe
+C:\Users\dave\Documents\Visual Studio 2013\Projects\LinqTest1\LinqTest1\obj\x86\Debug\LinqTest1.pdb
+C:\Users\dave\Documents\Visual Studio 2013\Projects\LinqTest1\LinqTest1\bin\Debug\LinqTest1.exe
+C:\Users\dave\Documents\Visual Studio 2013\Projects\LinqTest1\LinqTest1\bin\Debug\LinqTest1.pdb
+C:\Users\dave\Documents\Visual Studio 2013\Projects\LinqTest1\LinqTest1\obj\x86\Debug\LinqTest1.csprojResolveAssemblyReference.cache
+C:\Users\dave\Documents\Visual Studio 2013\Projects\LinqTest1\LinqTest1\obj\x86\Debug\LinqTest1.Form1.resources
+C:\Users\dave\Documents\Visual Studio 2013\Projects\LinqTest1\LinqTest1\obj\x86\Debug\LinqTest1.Properties.Resources.resources
+C:\Users\dave\Documents\Visual Studio 2013\Projects\LinqTest1\LinqTest1\obj\x86\Debug\LinqTest1.csproj.GenerateResource.Cache

@@ -48,6 +48,29 @@ namespace binaryTree {
             }
         }
 
+        static public void recursivePostorder(Node t_Node) {
+            if (t_Node != null) {
+                //go to left node first
+                recursivePostorder(t_Node.getLeft());
+                recursivePostorder(t_Node.getRight());
+
+                //print content
+                Console.WriteLine("Content: " + t_Node.getContent());
+            }
+        }
+
+        static public void recursiveInorder(Node t_Node) {
+            if (t_Node != null) {
+                //go to left node first
+                recursivePostorder(t_Node.getLeft());
+
+                //print content
+                Console.WriteLine("Content: " + t_Node.getContent());
+
+                recursivePostorder(t_Node.getRight());
+            }
+        }
+
         static void Main(string[] args) {
             // generate the root of the binary tree
             Node myRoot = new Node("W");
@@ -62,11 +85,20 @@ namespace binaryTree {
             Node myleft00 = new Node("A1");
             Node myright00 = new Node("B1");
             myLeft.assignLeft(myleft00);
-            myRight.assignRight(myright00);
+            myLeft.assignRight(myright00);
             //--> tree with 3 levels, left node on level 2 has two childs
 
             //iterate over tree
+            Console.WriteLine("Preorder");
             recursivePreorder(myRoot);
+            Console.ReadKey();
+
+            Console.WriteLine("Postorder");
+            recursivePostorder(myRoot);
+            Console.ReadKey();
+
+            Console.WriteLine("Inorder");
+            recursiveInorder(myRoot);
             Console.ReadKey();
         }
     }

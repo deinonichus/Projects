@@ -29,14 +29,15 @@ namespace LinqTest1
             InitializeComponent();
         }
 
-        static string database = "FallbeispielRechnungen";
+        static string database = "RechnungenFallbeispiel";
         static string dataSource = "(local)";
-        static string username = "SA";
-        static string password = "Aare2013";
+        static string username = "dave";
+        static string password = "";
         //static string myTable = "Gruppe";
         //static string myColumn = "Name";
         static string myContent = "gruppe3";
-        static DataContext myDataBase = new DataContext(@"Data Source=" + dataSource + "; Initial Catalog = " + database + "; Uid = " + username + "; Password = " + password);
+        //static DataContext myDataBase = new DataContext(@"Data Source=" + dataSource + "; Initial Catalog = " + database + "; Uid = " + username + "; Password = " + password);
+        static DataContext myDataBase = new DataContext(@"Data Source=" + dataSource + "; Initial Catalog = " + database + "; Integrated Security = true");
        
         private void Form1_Load(object sender, EventArgs e)
         {
@@ -97,10 +98,10 @@ namespace LinqTest1
         //Methode zum Aendern
         private void button3_Click(object sender, EventArgs e)
         {
-            //Verbindung definieren
-            //DataContext my_db = new DataContext(@"Data Source=T4W00\SQLEXPRESS; Initial Catalog = test_2; Integrated Security = True");
-            //Connect auf Tabelle inkl. dem Mapping
-            Table<my_definition> my_inhalt = myDataBase.GetTable<my_definition>();
+           //Verbindung definieren
+           //DataContext my_db = new DataContext(@"Data Source=T4W00\SQLEXPRESS; Initial Catalog = test_2; Integrated Security = True");
+           //Connect auf Tabelle inkl. dem Mapping
+           Table<my_definition> my_inhalt = myDataBase.GetTable<my_definition>();
 
            //Abfrage zur Ermittlung der zu aendernden Elemente
             var zu_update =

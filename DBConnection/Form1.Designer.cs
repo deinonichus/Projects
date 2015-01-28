@@ -33,7 +33,7 @@
             this.radioButtonDrop = new System.Windows.Forms.RadioButton();
             this.radioButtonCreate = new System.Windows.Forms.RadioButton();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.textBoxDataBase = new System.Windows.Forms.TextBox();
             this.labelDataBase = new System.Windows.Forms.Label();
             this.labelTable = new System.Windows.Forms.Label();
             this.textBoxTable = new System.Windows.Forms.TextBox();
@@ -152,12 +152,12 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "SQL Operation";
             // 
-            // textBox1
+            // textBoxDataBase
             // 
-            this.textBox1.Location = new System.Drawing.Point(91, 20);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 20);
-            this.textBox1.TabIndex = 10;
+            this.textBoxDataBase.Location = new System.Drawing.Point(91, 20);
+            this.textBoxDataBase.Name = "textBoxDataBase";
+            this.textBoxDataBase.Size = new System.Drawing.Size(100, 20);
+            this.textBoxDataBase.TabIndex = 10;
             // 
             // labelDataBase
             // 
@@ -220,7 +220,7 @@
             // 
             this.groupBox2.Controls.Add(this.textBox2);
             this.groupBox2.Controls.Add(this.labelFieldValue);
-            this.groupBox2.Controls.Add(this.textBox1);
+            this.groupBox2.Controls.Add(this.textBoxDataBase);
             this.groupBox2.Controls.Add(this.textBox3);
             this.groupBox2.Controls.Add(this.labelDataBase);
             this.groupBox2.Controls.Add(this.labelColumn);
@@ -266,7 +266,7 @@
         private System.Windows.Forms.RadioButton radioButtonDrop;
         private System.Windows.Forms.RadioButton radioButtonCreate;
         private System.Windows.Forms.GroupBox groupBox1;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox textBoxDataBase;
         private System.Windows.Forms.Label labelDataBase;
         private System.Windows.Forms.Label labelTable;
         private System.Windows.Forms.TextBox textBoxTable;
