@@ -59,3 +59,5 @@ Y:\B-TIN-13-T-a\Objektorientiertes Programmieren\Code\erste_Grafik\erste_Grafik\
 Y:\B-TIN-13-T-a\Objektorientiertes Programmieren\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\erste_Grafik.Form1.resources
 Y:\B-TIN-13-T-a\Objektorientiertes Programmieren\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\erste_Grafik.Properties.Resources.resources
 Y:\B-TIN-13-T-a\Objektorientiertes Programmieren\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\erste_Grafik.csproj.GenerateResource.Cache
+C:\Users\lutzd\Documents\Visual Studio 2013\Projects\Projects\erste_Grafik\erste_Grafik\obj\x86\Debug\erste_Grafik.exe
+C:\Users\lutzd\Documents\Visual Studio 2013\Projects\Projects\erste_Grafik\erste_Grafik\obj\x86\Debug\erste_Grafik.pdb

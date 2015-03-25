@@ -8,40 +8,33 @@ using System.Drawing;
 namespace GameOfLife {
     class Controller {
         public Controller() {
-
-        }
-        private Graphics board = new Graphics();
-
-        public void drawBoard() {
             
         }
+        static Bitmap bm = new Bitmap(8 * 100, 8 * 100);
+        Graphics g = Graphics.FromImage(bm);
+        static Graphics CreateGraphics();
 
-        ////erzeugen Grafikoberfläche
-            //Graphics my_g = my_box.CreateGraphics();
+        // e.g. a chessbord has size 8 (8*8 = 64 cells, 8 rows, 8 columns)
+        Graphics board = CreateGraphics();
+        
+        public void drawBoard(int boardSize) {
+            int counter = 1;
+            for (int x = 1; x < boardSize; x++) {
+                for (int y = 1; y < boardSize; y++) {
+                    if ((counter % 2) == 1) {
+                        board.FillRectangle(new SolidBrush(Color.White), 100 + x * 20, 50 + y * 20, 20, 20);
+                    }
+                    else {
+                        board.FillRectangle(new SolidBrush(Color.Black), 100 + x * 20, 50 + y * 20, 20, 20);
+                    }
+                    counter++;
+                }
+                counter++;
+            }
+        }
 
-            //int inhalt = 0;
+        public void drawCell() {
 
-            ////Inhalt erzeugen
-
-            ////Alle x und y Elemente der Matrix auslesen
-            //for (int x = 1; x < 9; x++)
-            //{
-            //    for (int y = 1; y < 9; y++)
-            //    {
-            //        //Matrixelement auslesen
-            //        inhalt = my_mdl.lesen_feld(x, y);
-
-            //        //Rechteck setzen in Picturebox
-            //        if (inhalt == 1)
-            //        {
-            //            my_g.FillRectangle(new SolidBrush(Color.Red), x * 10, y * 10, 10, 10);
-            //        }
-            //        else
-            //        {
-            //            my_g.FillRectangle(new SolidBrush(Color.White), x * 10, y * 10, 10, 10);
-            //        }
-            //    }
-            //}
-
+        }
     }
 }

@@ -16,7 +16,7 @@ namespace GameOfLife {
         Controller myController = new Controller();
 
         private void buttonPlay_Click(object sender, EventArgs e) {
-            
+            myController.drawBoard(8);
         }
     }
 }
