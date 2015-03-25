@@ -1,0 +1,61 @@
+c:\users\chh\documents\visual studio 2010\Projects\erste_Grafik\erste_Grafik\bin\Debug\erste_Grafik.exe
+c:\users\chh\documents\visual studio 2010\Projects\erste_Grafik\erste_Grafik\bin\Debug\erste_Grafik.pdb
+c:\users\chh\documents\visual studio 2010\Projects\erste_Grafik\erste_Grafik\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\chh\documents\visual studio 2010\Projects\erste_Grafik\erste_Grafik\obj\x86\Debug\erste_Grafik.Form1.resources
+c:\users\chh\documents\visual studio 2010\Projects\erste_Grafik\erste_Grafik\obj\x86\Debug\erste_Grafik.Properties.Resources.resources
+c:\users\chh\documents\visual studio 2010\Projects\erste_Grafik\erste_Grafik\obj\x86\Debug\ResGen.read.1.tlog
+c:\users\chh\documents\visual studio 2010\Projects\erste_Grafik\erste_Grafik\obj\x86\Debug\ResGen.write.1.tlog
+c:\users\chh\documents\visual studio 2010\Projects\erste_Grafik\erste_Grafik\obj\x86\Debug\erste_Grafik.exe
+c:\users\chh\documents\visual studio 2010\Projects\erste_Grafik\erste_Grafik\obj\x86\Debug\erste_Grafik.pdb
+\\B-EDU-1\Klassen\B-TTE-10-T-a\Programmieren\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\erste_Grafik.exe
+\\B-EDU-1\Klassen\B-TTE-10-T-a\Programmieren\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\erste_Grafik.pdb
+\\B-EDU-1\Klassen\B-TTE-10-T-a\Programmieren\Code\erste_Grafik\erste_Grafik\bin\Debug\erste_Grafik.exe
+\\B-EDU-1\Klassen\B-TTE-10-T-a\Programmieren\Code\erste_Grafik\erste_Grafik\bin\Debug\erste_Grafik.pdb
+\\B-EDU-1\Klassen\B-TTE-10-T-a\Programmieren\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\ResolveAssemblyReference.cache
+\\B-EDU-1\Klassen\B-TTE-10-T-a\Programmieren\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\erste_Grafik.Form1.resources
+\\B-EDU-1\Klassen\B-TTE-10-T-a\Programmieren\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\erste_Grafik.Properties.Resources.resources
+\\B-EDU-1\Klassen\B-TTE-10-T-a\Programmieren\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\ResGen.read.1.tlog
+\\B-EDU-1\Klassen\B-TTE-10-T-a\Programmieren\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\ResGen.write.1.tlog
+\\B-EDU-1\Klassen\B-TIN-10-T-a\OOT\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\erste_Grafik.exe
+\\B-EDU-1\Klassen\B-TIN-10-T-a\OOT\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\erste_Grafik.pdb
+L:\B-TIN-10-T-a\OOT\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\erste_Grafik.exe
+L:\B-TIN-10-T-a\OOT\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\erste_Grafik.pdb
+L:\B-TIN-10-T-a\OOT\Code\erste_Grafik\erste_Grafik\bin\Debug\erste_Grafik.exe
+L:\B-TIN-10-T-a\OOT\Code\erste_Grafik\erste_Grafik\bin\Debug\erste_Grafik.pdb
+L:\B-TIN-10-T-a\OOT\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\B-TIN-10-T-a\OOT\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\erste_Grafik.Form1.resources
+L:\B-TIN-10-T-a\OOT\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\erste_Grafik.Properties.Resources.resources
+L:\B-TIN-10-T-a\OOT\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+L:\B-TIN-10-T-a\OOT\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\ResGen.read.1.tlog
+L:\B-TIN-10-T-a\OOT\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+L:\B-TIN-10-T-a\OOT\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\ResGen.write.1.tlog
+Y:\B-TIN-10-T-a\Abgeschlossene Fächer\OOT\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\erste_Grafik.exe
+Y:\B-TIN-10-T-a\Abgeschlossene Fächer\OOT\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\erste_Grafik.pdb
+Y:\B-TIN-10-T-a\Abgeschlossene Fächer\OOT\Code\erste_Grafik\erste_Grafik\bin\Debug\erste_Grafik.exe
+Y:\B-TIN-10-T-a\Abgeschlossene Fächer\OOT\Code\erste_Grafik\erste_Grafik\bin\Debug\erste_Grafik.pdb
+Y:\B-TIN-10-T-a\Abgeschlossene Fächer\OOT\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\B-TIN-10-T-a\Abgeschlossene Fächer\OOT\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\erste_Grafik.Form1.resources
+Y:\B-TIN-10-T-a\Abgeschlossene Fächer\OOT\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\erste_Grafik.Properties.Resources.resources
+Y:\B-TIN-10-T-a\Abgeschlossene Fächer\OOT\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+Y:\B-TIN-10-T-a\Abgeschlossene Fächer\OOT\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\ResGen.read.1.tlog
+Y:\B-TIN-10-T-a\Abgeschlossene Fächer\OOT\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+Y:\B-TIN-10-T-a\Abgeschlossene Fächer\OOT\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\ResGen.write.1.tlog
+Y:\B-TIN-11-T-a\OO-Technologie\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\erste_Grafik.exe
+Y:\B-TIN-11-T-a\OO-Technologie\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\erste_Grafik.pdb
+Y:\B-TIN-11-T-a\OO-Technologie\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\B-TIN-11-T-a\OO-Technologie\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\erste_Grafik.Form1.resources
+Y:\B-TIN-11-T-a\OO-Technologie\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\erste_Grafik.Properties.Resources.resources
+Y:\B-TIN-11-T-a\OO-Technologie\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+Y:\B-TIN-11-T-a\OO-Technologie\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\ResGen.read.1.tlog
+Y:\B-TIN-11-T-a\OO-Technologie\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+Y:\B-TIN-11-T-a\OO-Technologie\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\ResGen.write.1.tlog
+Y:\B-TIN-11-T-a\OO-Technologie\Code\erste_Grafik\erste_Grafik\bin\Debug\erste_Grafik.exe
+Y:\B-TIN-11-T-a\OO-Technologie\Code\erste_Grafik\erste_Grafik\bin\Debug\erste_Grafik.pdb
+Y:\B-TIN-13-T-a\Objektorientiertes Programmieren\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\erste_Grafik.exe
+Y:\B-TIN-13-T-a\Objektorientiertes Programmieren\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\erste_Grafik.pdb
+Y:\B-TIN-13-T-a\Objektorientiertes Programmieren\Code\erste_Grafik\erste_Grafik\bin\Debug\erste_Grafik.exe
+Y:\B-TIN-13-T-a\Objektorientiertes Programmieren\Code\erste_Grafik\erste_Grafik\bin\Debug\erste_Grafik.pdb
+Y:\B-TIN-13-T-a\Objektorientiertes Programmieren\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\erste_Grafik.csprojResolveAssemblyReference.cache
+Y:\B-TIN-13-T-a\Objektorientiertes Programmieren\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\erste_Grafik.Form1.resources
+Y:\B-TIN-13-T-a\Objektorientiertes Programmieren\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\erste_Grafik.Properties.Resources.resources
+Y:\B-TIN-13-T-a\Objektorientiertes Programmieren\Code\erste_Grafik\erste_Grafik\obj\x86\Debug\erste_Grafik.csproj.GenerateResource.Cache
