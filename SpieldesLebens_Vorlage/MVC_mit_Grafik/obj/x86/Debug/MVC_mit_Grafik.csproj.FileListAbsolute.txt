@@ -18,3 +18,4 @@ Y:\B-TIN-11-T-a\OO-Technologie\Code\SpieldesLebens_Vorlage\MVC_mit_Grafik\obj\x8
 Y:\B-TIN-11-T-a\OO-Technologie\Code\SpieldesLebens_Vorlage\MVC_mit_Grafik\obj\x86\Debug\MVC_mit_Grafik.Properties.Resources.resources
 Y:\B-TIN-11-T-a\OO-Technologie\Code\SpieldesLebens_Vorlage\MVC_mit_Grafik\obj\x86\Debug\GenerateResource.read.1.tlog
 Y:\B-TIN-11-T-a\OO-Technologie\Code\SpieldesLebens_Vorlage\MVC_mit_Grafik\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lutzd\Documents\Visual Studio 2013\Projects\Projects\SpieldesLebens_Vorlage\MVC_mit_Grafik\obj\x86\Debug\MVC_mit_Grafik.exe
