@@ -12,10 +12,44 @@ namespace digitalClock {
     public partial class Form1 : Form {
         public Form1() {
             InitializeComponent();
+
+            Timer timer = new Timer();
+            timer.Interval = 1000;
+            timer.Tick += new System.EventHandler(showTime);
+            timer.Start();
+            showTime(null, null);
         }
 
         // possible states: none, hours, minutes, seconds
         string editState = "none";
+        int hours = 0;
+        int minutes = 0;
+        int seconds = 0;
+
+        private void showTime(object sender, EventArgs e) {
+            DateTime now = System.DateTime.Now;
+            now = now.AddHours(hours);
+            now = now.AddMinutes(minutes);
+            now = now.AddSeconds(seconds);
+            if (now.Hour.ToString().Length < 2) {
+                textBoxHours.Text = "0" + now.Hour.ToString();
+            }
+            else {
+                textBoxHours.Text = now.Hour.ToString();
+            }
+            if (now.Minute.ToString().Length < 2) {
+                textBoxMinutes.Text = "0" + now.Minute.ToString();
+            }
+            else {
+                textBoxMinutes.Text = now.Minute.ToString();
+            }
+            if (now.Second.ToString().Length < 2) {
+                textBoxSeconds.Text = "0" + now.Second.ToString();
+            }
+            else {
+                textBoxSeconds.Text = now.Second.ToString();
+            }
+        }
 
         private void Form1_Load(object sender, EventArgs e) {
             textBoxHours.Text = "0";
@@ -24,34 +58,33 @@ namespace digitalClock {
         }
 
         public void incrementHours(object sender, EventArgs e) {
-            int hours = Convert.ToInt32(textBoxHours.Text);
             if (hours >= 23) {
                 hours = 0;
             }
             else {
                 hours++;
             }
-            textBoxHours.Text = hours.ToString();
+            showTime(sender, e);
         }
         public void incrementMinutes(object sender, EventArgs e) {
-            int minutes = Convert.ToInt32(textBoxMinutes.Text);
             if (minutes >= 59) {
                 minutes = 0;
+                incrementHours(sender, e);
             }
             else {
                 minutes++;
             }
-            textBoxMinutes.Text = minutes++.ToString();
+            showTime(sender, e);
         }
         public void incrementSeconds(object sender, EventArgs e) {
-            int seconds = Convert.ToInt32(textBoxSeconds.Text);
             if (seconds >= 59) {
                 seconds = 0;
+                incrementMinutes(sender, e);
             }
             else {
                 seconds++;
             }
-            textBoxSeconds.Text = seconds.ToString();
+            showTime(sender, e);
         }
 
         private void button1_Click(object sender, EventArgs e) {
