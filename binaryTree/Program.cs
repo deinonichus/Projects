@@ -72,33 +72,52 @@ namespace binaryTree {
         }
 
         static void Main(string[] args) {
-            // generate the root of the binary tree
-            Node myRoot = new Node("W");
-            Node myLeft = new Node("A");
-            Node myRight = new Node("B");
+            //// generate the root of the binary tree
+            //Node myRoot = new Node("W");
+            //Node myLeft = new Node("A");
+            //Node myRight = new Node("B");
 
-            // assign nodes
-            myRoot.assignLeft(myLeft);
-            myRoot.assignRight(myRight);
-            //--> tree with 2 levels
+            //// assign nodes
+            //myRoot.assignLeft(myLeft);
+            //myRoot.assignRight(myRight);
+            ////--> tree with 2 levels
 
-            Node myleft00 = new Node("A1");
-            Node myright00 = new Node("B1");
-            myLeft.assignLeft(myleft00);
-            myLeft.assignRight(myright00);
+            //Node myleft00 = new Node("A1");
+            //Node myright00 = new Node("B1");
+            //myLeft.assignLeft(myleft00);
+            //myLeft.assignRight(myright00);
             //--> tree with 3 levels, left node on level 2 has two childs
 
+            Node root = new Node("W");
+
+            Node left0 = new Node("V");
+            Node left1 = new Node("X");
+            Node left2 = new Node("L");
+            Node left3 = new Node("R");
+            Node left4 = new Node("A");
+
+            Node right0 = new Node("I");
+            Node right1 = new Node("B");
+
+            root.assignLeft(left0);
+            root.assignRight(right0);
+
+            left0.assignRight(left1);
+            left1.assignLeft(left2);
+            left1.assignRight(left3);
+            left2.assignLeft(left4);
+
+            right0.assignRight(right1);
+
             //iterate over tree
-            Console.WriteLine("Preorder");
-            recursivePreorder(myRoot);
-            Console.ReadKey();
+            Console.WriteLine("\nPreorder\n---------------");
+            recursivePreorder(root);
 
-            Console.WriteLine("Postorder");
-            recursivePostorder(myRoot);
-            Console.ReadKey();
+            Console.WriteLine("\nPostorder\n---------------");
+            recursivePostorder(root);
 
-            Console.WriteLine("Inorder");
-            recursiveInorder(myRoot);
+            Console.WriteLine("\nInorder\n---------------");
+            recursiveInorder(root);
             Console.ReadKey();
         }
     }
