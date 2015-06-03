@@ -1,4 +1,9 @@
-﻿using System;
+﻿// Author: David Lutz
+// Date: 27.05.2015
+// TEKO Tin13a
+// Fallstudie Semantisches Netz
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
