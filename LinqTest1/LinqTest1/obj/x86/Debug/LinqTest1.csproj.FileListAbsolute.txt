@@ -41,3 +41,5 @@ C:\Users\dave\Documents\Visual Studio 2013\Projects\LinqTest1\LinqTest1\obj\x86\
 C:\Users\dave\Documents\Visual Studio 2013\Projects\LinqTest1\LinqTest1\obj\x86\Debug\LinqTest1.Form1.resources
 C:\Users\dave\Documents\Visual Studio 2013\Projects\LinqTest1\LinqTest1\obj\x86\Debug\LinqTest1.Properties.Resources.resources
 C:\Users\dave\Documents\Visual Studio 2013\Projects\LinqTest1\LinqTest1\obj\x86\Debug\LinqTest1.csproj.GenerateResource.Cache
+C:\Users\dave\Documents\Visual Studio 2013\Projects_deinonichus\LinqTest1\LinqTest1\obj\x86\Debug\LinqTest1.exe
+C:\Users\dave\Documents\Visual Studio 2013\Projects_deinonichus\LinqTest1\LinqTest1\obj\x86\Debug\LinqTest1.pdb

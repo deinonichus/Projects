@@ -49,6 +49,7 @@ namespace FallstudiePatternsKaufhausRonam {
 
         class Panel {
             string panelName;
+
             List<Message> messageQueue = new List<Message>();
 
             public Panel(string panelName, Mediator mediator) {
@@ -56,7 +57,11 @@ namespace FallstudiePatternsKaufhausRonam {
             }
 
             public string displayMessage() {
-                return message;
+                string messages = "";
+                foreach (Message message in messageQueue) {
+                    messages += message.getMessage();
+                }
+                return messages;
             }
 
             public string getName() {
