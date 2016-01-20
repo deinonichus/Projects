@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OODBMS_1", "OODBMS_1\OODBMS_1.csproj", "{E1AE8DE9-DF11-45D6-86B6-27A9EFBDAB9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1AE8DE9-DF11-45D6-86B6-27A9EFBDAB9D}.Debug|x86.ActiveCfg = Debug|x86
+		{E1AE8DE9-DF11-45D6-86B6-27A9EFBDAB9D}.Debug|x86.Build.0 = Debug|x86
+		{E1AE8DE9-DF11-45D6-86B6-27A9EFBDAB9D}.Release|x86.ActiveCfg = Release|x86
+		{E1AE8DE9-DF11-45D6-86B6-27A9EFBDAB9D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
