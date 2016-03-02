@@ -8,7 +8,7 @@ namespace ProjectManager.Models {
         // A lot of values are enum candidates. 
         public int ID { get; set; }
         // e.g. Prof, Dr, VC
-        // either check if title is prefix or suffix or make two fields
+        // either check if title is prefix or suffix
         public string Title { get; set; }
         public string Religion { get; set; }
         public string Ethnicity { get; set; }
