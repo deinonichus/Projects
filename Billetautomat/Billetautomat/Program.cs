@@ -4,16 +4,19 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace BillettSelfKioskSystem {
-    static class Program {
+namespace Billetautomat
+{
+    static class Program
+    {
         /// <summary>
-        /// The main entry point for the application.
+        /// Der Haupteinstiegspunkt für die Anwendung.
         /// </summary>
         [STAThread]
-        static void Main() {
+        static void Main()
+        {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new BilletSelfKioskSystem());
+            Application.Run(new Form1());
         }
     }
 }
