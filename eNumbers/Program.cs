@@ -7,25 +7,29 @@ using System.ServiceModel;
 using System.Collections;
 
 namespace eNumbers {
-    class Program {
+    [ServiceContract]
+    public interface IGetIngredients {
+        [OperationContract]
+        Hashtable getIngredient(int eNumber);
+    }
+
+    public class GetIngredients : IGetIngredients {
         public static Hashtable Ingredients = new Hashtable();
-
-        [ServiceContract]
-        public interface IGetIngredients {
-            [OperationContract]
-            string getIngredient(int eNumber);
+        //public Hashtable Ingredients { get; set; }
+        public Hashtable getIngredient(int eNumber) {
+            return Ingredients;
         }
+    }
 
-        //Benutzbare Klasse, welche den ServiceContract erbt
-        public class GetIngredients : IGetIngredients {
-            public Hashtable getIngredient(int eNumber) {
-                return Ingredients;
-            }
-        }
-
+    class Program {
         static void Main(string[] args) {
-            ServiceHost bagService = new ServiceHost(typeof(GetIngredients));
+            ServiceHost BAGservice = new ServiceHost(typeof(GetIngredients));
+            BAGservice.Open();
+            
+            Console.WriteLine("Service is up and running… Press return to terminate.");
 
+            Console.ReadLine();
+            BAGservice.Close();
         }
     }
 }
