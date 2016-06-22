@@ -52,6 +52,8 @@
             this.ClientSize = new System.Drawing.Size(285, 87);
             this.Controls.Add(this.label1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.MaximumSize = new System.Drawing.Size(301, 126);
+            this.MinimumSize = new System.Drawing.Size(301, 126);
             this.Name = "Form1";
             this.Text = "Uhr";
             this.TopMost = true;
