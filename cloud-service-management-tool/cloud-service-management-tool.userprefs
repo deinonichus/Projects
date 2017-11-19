@@ -1,0 +1,16 @@
+﻿<Properties>
+  <AuthorInfo Name="David S. Lutz" Email="david.lutz@weblaw.ch" Copyright="David S. Lutz" Company="Weblaw AG" Trademark="" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="cloud-service-management-tool/Program.cs">
+    <Files>
+      <File FileName="cloud-service-management-tool/Program.cs" Line="62" Column="32" />
+      <File FileName="cloud-service-management-tool/Snapshot.cs" Line="27" Column="10" />
+      <File FileName="cloud-service-management-tool/Drive.cs" Line="10" Column="1" />
+      <File FileName="cloud-service-management-tool/Owner.cs" Line="10" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
