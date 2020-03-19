@@ -8,6 +8,8 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+using System.Drawing;
+
 namespace Watch.Properties {
 
 
@@ -22,5 +24,10 @@ namespace Watch.Properties {
                 return defaultInstance;
             }
         }
+
+        public bool Maximised { get; internal set; }
+        public Point Location { get; internal set; }
+        public Size Size { get; internal set; }
+        public bool Minimised { get; internal set; }
     }
 }

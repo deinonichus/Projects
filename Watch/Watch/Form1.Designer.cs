@@ -55,8 +55,11 @@
             this.MaximumSize = new System.Drawing.Size(301, 126);
             this.MinimumSize = new System.Drawing.Size(301, 126);
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.Manual;
             this.Text = "Uhr";
             this.TopMost = true;
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
